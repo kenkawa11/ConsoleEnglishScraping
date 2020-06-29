@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEnglishScraping", "ConsoleEnglishScraping.csproj", "{97332A98-7EB6-4731-9017-518D78F27E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97332A98-7EB6-4731-9017-518D78F27E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97332A98-7EB6-4731-9017-518D78F27E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97332A98-7EB6-4731-9017-518D78F27E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97332A98-7EB6-4731-9017-518D78F27E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE03B2E1-F7E4-45A2-903E-71DBBC22D49B}
+	EndGlobalSection
+EndGlobal
