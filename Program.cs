@@ -32,7 +32,6 @@ namespace ConsoleEnglishScraping
                 var Mp3filename = "ID";
                 var IsSentencemp3 = true;
                 await DownLoder.TreatDataAsync(fn, dir, Mp3filename, IsSentencemp3);
-
                 await Task.Delay(100);
 
             }
